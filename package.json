@@ -2,7 +2,7 @@
   "name": "soundcloud2podcast",
   "version": "1.0.0",
   "description": "Convert Soundcloud playlist or user to podcast feed",
-  "main": "index.js",
+  "main": "Soundcloud2Podcast.js",
   "dependencies": {
     "express": "^4.16.2",
     "fs": "^0.0.1-security",
