@@ -8,7 +8,7 @@ let express = require('express');
 
 const CLIENT_ID = "DQskPX1pntALRzMp4HSxya3Mc0AO66Ro";
 
-exports = new class Soundcloud2Podcast {
+module.exports = class Soundcloud2Podcast {
 
 	constructor(url = '', cache_time = '1 hour') {
 		this.url = url;
