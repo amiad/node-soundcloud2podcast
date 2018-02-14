@@ -1,0 +1,35 @@
+{
+  "name": "soundcloud2podcast",
+  "version": "1.0.0",
+  "description": "Convert Soundcloud playlist or user to podcast feed",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "^0.0.1-security",
+    "md5": "^2.2.1",
+    "mime-types": "^2.1.17",
+    "rss": "^1.2.2",
+    "strtotime": "^1.0.0",
+    "sync-request": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiad/node-soundcloud2podcast.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "podcast",
+    "rss",
+    "feed"
+  ],
+  "author": "Amiad B <npm@hatul.info> (https://hatul.info)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/amiad/node-soundcloud2podcast/issues"
+  },
+  "homepage": "https://github.com/amiad/node-soundcloud2podcast#readme"
+}

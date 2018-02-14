@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[חינוכית פודקאסט]]></title>
+        <description><![CDATA[http://www.23tv.co.il/Podcasts]]></description>
+        <link>http://soundcloud.com/user-602430221</link>
+        <image>
+            <url>https://i1.sndcdn.com/avatars-000335206638-hiw3g1-large.jpg</url>
+            <title>חינוכית פודקאסט</title>
+            <link>http://soundcloud.com/user-602430221</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 14 Feb 2018 12:59:48 GMT</lastBuildDate>
+        <atom:link href="http://localhost:3000/?url=https://soundcloud.com/user-602430221/" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 31 Oct 2017 09:08:19 GMT</pubDate>
+        <ttl>60</ttl>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000335206638-hiw3g1-large.jpg"/>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - לשנות את כיוון המלחמה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-26-ioeeaue-cue-ieaaa</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-26-ioeeaue-cue-ieaaa</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765746/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46522188" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064637-spl4jh-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מלחמה במערב אירופה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-25-aeicaeae-ueaeaeyue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-25-aeicaeae-ueaeaeyue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765747/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="44955519" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064649-f1wgqu-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - פצצות מעופפות, מבצע בגרטיון ומיידנק]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-24-oeuuaue-aeaeaoeoeaue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-24-oeuuaue-aeaeaoeoeaue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765748/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46171491" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064659-oopz7h-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - הפלישה לנורמנדי]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-23-aeoeieoeae-ieayaeeae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-23-aeoeieoeae-ieayaeeae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765750/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="47984607" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064646-gcmpl2-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - קרבות באוקיינוס השקט ומבצע שומר ראש]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-22-ae-ae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-22-ae-ae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765751/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46143552" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064626-ttk84e-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מדינות הציר הולכות לאחור]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-21-aeaeeaue-aeuey</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-21-aeaeeaue-aeuey</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765753/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="44984709" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064227-vyhphn-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מרידות, פגישות וצוללות]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-20-aeyeaaue-oeeeoeaue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-20-aeyeaaue-oeeeoeaue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765754/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="47118081" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064210-mixrsi-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - תהפוכות בכל החזיתות]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-19-ueaeoeaiaue-ueii</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-19-ueaeoeaiaue-ueii</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765756/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="44344614" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064215-c8ctge-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מהפך באוקיינוס השקט]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-18-aeaeoee-uecaueeeaae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-18-aeaeoee-uecaueeeaae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765757/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="44546025" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064224-mz898g-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - סטלינגרד]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-17-aeeieeeya</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-17-aeeieeeya</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765758/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="38464914" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064226-anrwb9-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מבצע לפיד וקרבות בצפון אפריקה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-16-aeueuae-ioeea-auyueaue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-16-aeueuae-ioeea-auyueaue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765759/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="39411087" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063683-ti4u95-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - קרבות בצפון אפריקה - מערכה שניה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-15-ueaeaueyeaue-uoeaa</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-15-ueaeaueyeaue-uoeaa</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765760/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="33447570" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063669-m8usde-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - קרבות בצפון אפריקה - מערכה ראשונה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-14-ae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-14-ae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765761/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="35265690" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063668-9onmo1-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מסביב לעולם]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-13-aeaeueeue-iaeaii</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-13-aeaeueeue-iaeaii</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765762/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="39344367" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063676-3g8heg-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מלחמת החורף של 1942 והמצור על לנינגרד]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-12-aeicaeue-aecayo-oei</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-12-aeicaeue-aecayo-oei</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765763/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="38274762" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063700-zwd1om-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - פרל הארבור דצמבר 1941]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-11-oeyi-aecyueay-auaeuey</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-11-oeyi-aecyueay-auaeuey</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765765/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="53923938" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243064212-i19f1p-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מבצע ברברוסה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-10-aeueuae-ueyueyaaeae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-10-aeueuae-ueyueyaaeae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765767/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="48413283" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063665-axj1pq-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - מסביב לקרבות]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-09-aeaeueeue-iuyueaue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-09-aeaeueeue-iuyueaue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765768/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="50133408" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063585-7dpqdp-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - טרגדיות בבלקן וביוון]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-08-eyeaeaue-ueueiua</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-08-eyeaeaue-ueueiua</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765769/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46051395" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956585-abt2bb-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - המלחמה מתרחבת ומלחמת הצפנים]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-07-aeaeicaeae-aeueycueue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-07-aeaeicaeae-aeueycueue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765770/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="38086278" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956587-r2po83-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - הבליץ על לונדון]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-06-aeueieo-aei-iaeaaa</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-06-aeueieo-aei-iaeaaa</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765771/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46544289" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956544-57vi9y-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - כיבוש מערב אירופה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-05-ueieuuyee-ueaeaeyue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-05-ueieuuyee-ueaeaeyue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765773/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="45312888" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956576-8z8npf-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - פרוץ המלחמה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-04-oeyao-aeaeicaeae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-04-oeyao-aeaeicaeae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765774/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="42044025" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956570-bom32g-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - אירופה בשנים 1936 עד 1939]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-03-aeaeoeuey-ueceyaoeae</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-03-aeaeoeuey-ueceyaoeae</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765776/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="41170827" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956575-9udud1-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - במזרח הרחוק]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-02-aeaeyae-aeaeayceue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-02-aeaeyae-aeaeayceue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765777/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="46500921" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956551-td2kkl-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[מה"ע ה-2 - רק לא עוד מלחמה]]></title>
+            <link>https://soundcloud.com/user-602430221/wwii-01-ueea-aeaeicaeaue</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/wwii-01-ueea-aeaeicaeaue</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/323765778/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="42238347" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956558-i463be-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - לאה נאור]]></title>
+            <link>https://soundcloud.com/user-602430221/lea-naor</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/lea-naor</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342154354/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="36509852" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="null"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - לוין קיפניס]]></title>
+            <link>https://soundcloud.com/user-602430221/kipnis</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/kipnis</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342154498/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="34440644" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="null"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - נורית זרחי- חלק 1]]></title>
+            <link>https://soundcloud.com/user-602430221/nurit-zarchi-1</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/nurit-zarchi-1</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342154630/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="39239912" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="null"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - עודד בורלא]]></title>
+            <link>https://soundcloud.com/user-602430221/oded-burla</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/oded-burla</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342154888/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="39782792" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277878-2kvtus-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - נורית זרחי-חלק 2]]></title>
+            <link>https://soundcloud.com/user-602430221/nurit-zarchi-2</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/nurit-zarchi-2</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342154925/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="37840952" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277876-96cre4-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - פוצ'ו]]></title>
+            <link>https://soundcloud.com/user-602430221/pucho</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/pucho</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342155209/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="41013668" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277872-7jazln-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - שירה גפן חלק 1]]></title>
+            <link>https://soundcloud.com/user-602430221/shira-geffen-1</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/shira-geffen-1</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342155223/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="37293896" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277886-ah3e7v-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - מרים ילן-שטקליס]]></title>
+            <link>https://soundcloud.com/user-602430221/shtekelis</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/shtekelis</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342155487/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="38803520" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277867-piuqlw-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ראש מלא סיפורים - שירה גפן חלק 2]]></title>
+            <link>https://soundcloud.com/user-602430221/shira-geffen-2</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/shira-geffen-2</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342155516/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="37767872" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000247277865-09yukz-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - כל אחיותיה]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-kol-achyoteha</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-kol-achyoteha</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190219/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="15842828" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063158-89znlz-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - טובה ורעה]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-tova-ve-raa</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-tova-ve-raa</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190221/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="17968412" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063173-4j2svs-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - עוד נמשכת השלשלת]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-shalshelet</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-shalshelet</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190222/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="20214184" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063155-46aedk-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - אומרת שלום]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-omeret-shalom</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-omeret-shalom</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190223/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="22269948" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063170-jm0raq-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מי יציל את תנינה]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-mi-yatsil</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-mi-yatsil</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190224/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="20740232" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063167-ykgvyu-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מי ישיר לתנינה]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-mi-yashir</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-mi-yashir</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190225/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="18970652" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063164-ix2iw4-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מזג האוויר]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-mezeg-avir</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-mezeg-avir</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190226/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="17748128" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000243063171-zzj3u6-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מציצה לצלחות של אחרים]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-metsisa</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-metsisa</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190228/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="21549332" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956488-9wnsuh-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מתרגלת לרגול]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-metargelet-lirgol</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-metargelet-lirgol</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190230/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="14220452" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956487-udam27-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - המנפלה השלישית]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-manpela</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-manpela</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190232/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="20727704" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956485-1xj5n5-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - ומה יצא לי מזה]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-ma-yetse-li-mize</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-ma-yetse-li-mize</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190233/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="17538284" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956494-4guej0-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - מתאמנת לנשור]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-mitamenet-linshor</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-mitamenet-linshor</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190234/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="19889372" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956491-x4bbdq-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - קורקבן גדול וקטן]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-kurkevan-katan-gadol</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-kurkevan-katan-gadol</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190236/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="24990356" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956492-z96d2y-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - קוראת בעיניים עצומות]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-koret</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-koret</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190237/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="23121596" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956477-mv2ig8-large.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[תנינה - התינוק גרגורים]]></title>
+            <link>https://soundcloud.com/user-602430221/tanina-tinok-gregorim</link>
+            <guid isPermaLink="false">https://soundcloud.com/user-602430221/tanina-tinok-gregorim</guid>
+            <enclosure url="https://api.soundcloud.com/tracks/342190238/download?client_id=DQskPX1pntALRzMp4HSxya3Mc0AO66Ro" length="22716524" type="audio/mpeg"/>
+            <itunes:author>חינוכית פודקאסט</itunes:author>
+            <itunes:image href="https://i1.sndcdn.com/artworks-000242956474-wssaz4-large.jpg"/>
+        </item>
+    </channel>
+</rss>
