@@ -10,7 +10,7 @@ Convert Soundcloud playlist or user to podcast feed for NodeJS
 `$ node index.js`
 
 ### npm
-1. Install soundcloud2podcast:
+1. Install soundcloud2podcast:  
 `$ npm i soundcloud2podcast`
 2. Transfer souncloud url in url parameter:  
  http://<i></i>example.com:3000/?url=https:<i></i>//soundcloud.com/user/
