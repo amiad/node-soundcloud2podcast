@@ -1,6 +1,6 @@
 {
   "name": "soundcloud2podcast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Soundcloud playlist or user to podcast feed",
   "main": "Soundcloud2Podcast.js",
   "dependencies": {
@@ -27,7 +27,7 @@
     "feed"
   ],
   "author": "Amiad B <npm@hatul.info> (https://hatul.info)",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/amiad/node-soundcloud2podcast/issues"
   },
