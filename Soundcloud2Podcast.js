@@ -6,7 +6,7 @@ let rss = require('rss');
 let mime = require('mime-types')
 let express = require('express');
 
-const CLIENT_ID = "LvWovRaJZlWCHql0bISuum8Bd2KX79mb";
+const CLIENT_ID = "BeGVhOrGmfboy1LtiHTQF6Ejpt9ULJCI";
 
 module.exports = class Soundcloud2Podcast {
 
@@ -143,7 +143,7 @@ module.exports = class Soundcloud2Podcast {
 		if (!fs.existsSync('cache'))
 			fs.mkdirSync('cache');
 
-		fs.writeFile(this.get_cache_path(), feed.xml(true));
+		fs.writeFile(this.get_cache_path(), feed.xml(true), () => {});
 	}
 
 	get_cache_path(){
@@ -167,7 +167,7 @@ module.exports = class Soundcloud2Podcast {
 	}
 
 	print(message){
-		//this.res.setHeader('Content-Type', 'application/rss+xml; charset=utf-8');
+		this.res.set('Content-Type', 'application/rss+xml; charset=utf-8');
 		this.res.send(message);
 		this.res.set("Connection", "close");
 	}
