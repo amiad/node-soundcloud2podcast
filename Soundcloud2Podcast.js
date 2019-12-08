@@ -112,6 +112,7 @@ module.exports = class Soundcloud2Podcast {
 				description: track.description,
 				url: track.permalink_url,
 				guid: track.permalink_url,
+				pubDate: track.created_at,
 				enclosure: {
 					url: download_url + '?client_id=' + CLIENT_ID,
 					size: track.original_content_size,
