@@ -6,7 +6,7 @@ let rss = require('rss');
 let mime = require('mime-types')
 let express = require('express');
 
-const CLIENT_ID = "BeGVhOrGmfboy1LtiHTQF6Ejpt9ULJCI";
+const CLIENT_ID = "UW9ajvMgVdMMW3cdeBi8lPfN6dvOVGji";
 
 module.exports = class Soundcloud2Podcast {
 
