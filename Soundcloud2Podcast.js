@@ -120,7 +120,9 @@ module.exports = class Soundcloud2Podcast {
 	}
 
 	add_items_to_feed(feed, tracks){
-		tracks = tracks.reverse();
+		tracks.sort((track1, track2) => {
+			return strtotime(track2.created_at) - strtotime(track1.created_at);		
+		});
 		for (let i = 0; i < tracks.length; i++){
 			let track = tracks[i];
 			let download_url = track.download_url ? track.download_url : track.stream_url;
