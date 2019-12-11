@@ -9,8 +9,6 @@ let express = require('express');
 const CLIENT_ID_PATH = 'client_id';
 const YOUTUBE_DL_CLIENT_ID_URL = 'https://raw.githubusercontent.com/ytdl-org/youtube-dl/master/youtube_dl/extractor/soundcloud.py';
 
-let clientId;
-
 module.exports = class Soundcloud2Podcast {
 
 	constructor(url = '', cache_time = '1 hour') {
