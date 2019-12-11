@@ -150,7 +150,7 @@ module.exports = class Soundcloud2Podcast {
 
 	get_cache(){
 		let cache = this.get_cache_path();
-		if (fs.existsSync(cache) && this.time() - fs.statSync(cache).mtimeMs*1000 < strtotime(this.cache_time)) {
+		if (fs.existsSync(cache) &&  strtotime('now') < strtotime(this.cache_time, fs.statSync(cache).mtimeMs*1000)) {
 			return fs.readFileSync(cache);
 		}
 		else
