@@ -67,7 +67,7 @@ module.exports = class Soundcloud2Podcast {
 		let apiUrl = "https://api.soundcloud.com/resolve.json?client_id=" + this.clientId + "&url=" + url;
 		let res = request('GET', apiUrl);
 		if (res.statusCode != 200){
-			 if (dieIfFailed)
+			if (dieIfFailed)
 				this.die('request to soundcloud failed!');
 		else
 			return false;
@@ -183,7 +183,7 @@ module.exports = class Soundcloud2Podcast {
 		if (!fs.existsSync(CLIENT_ID_PATH))
 			return this.saveRemoteClientId();
 
-		this.clientId = fs.readFileSync(CLIENT_ID_PATH);
+		this.clientId = fs.readFileSync(CLIENT_ID_PATH).toString().trim();
 		return this.clientId;
 	}
 
